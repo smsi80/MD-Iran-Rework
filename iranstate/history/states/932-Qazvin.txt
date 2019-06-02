@@ -1,0 +1,25 @@
+
+state = {
+	id = 932
+	name = "STATE_932"
+
+
+	history = {
+		owner = PER
+		victory_points = {
+			4488 5 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+
+		}
+	}
+
+	provinces = {
+		4488 8125
+	}
+	manpower = 450263
+	buildings_max_level_factor = 1.000
+	state_category = town
+}

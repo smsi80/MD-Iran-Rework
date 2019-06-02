@@ -1,0 +1,28 @@
+﻿###########################
+# Iran Events
+###########################
+
+add_namespace = Iran
+
+# multipel kils
+country_event = {
+	id = Iran.1
+	title = Iran.1.t
+	desc = Iran.1.d
+	picture = GFX_mohamadkhatamimultikill
+	fire_only_once = yes
+	trigger = {
+	tag = PER
+	AND = {
+	date >2000.2.1
+		}
+	}
+	option = {
+	name= Iran.1.a
+	add_stability = 0.05
+	}
+	option = {
+	name= Iran.1.b
+	add_stability = -0.05
+
+}

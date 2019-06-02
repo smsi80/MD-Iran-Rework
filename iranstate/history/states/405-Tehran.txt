@@ -1,0 +1,28 @@
+
+state = {
+	id = 405
+	name = "STATE_405"
+
+
+	
+	history = {
+		owner = PER
+		victory_points = {
+			10837 30 
+		}
+		buildings = {
+			infrastructure = 5
+			arms_factory = 3
+			industrial_complex = 2
+			air_base = 8
+
+		}
+	}
+
+	provinces = {
+		10837
+	}
+	manpower = 16849216
+	buildings_max_level_factor = 1.000
+	state_category = large_city
+}
