@@ -3,7 +3,7 @@
 ########################
 spriteTypes = {
 	spriteType = {
-		name = "GFX_mohamadkhatamimultikill"
-		texturefile = "gfx\event_pictures\Khatamikils.dds"
+		name="GFX_mohamadkhatamimultikill"
+		texturefile="gfx/event_pictures/Khatamikils.dds"
 		}
 	}

@@ -19,7 +19,7 @@ state = {
 	provinces = {
 		1982
 	}
-	manpower = 800000
+	manpower = 965483
 	buildings_max_level_factor = 1.000
 	state_category = city
 }

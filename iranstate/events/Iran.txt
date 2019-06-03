@@ -14,6 +14,7 @@ country_event = {
 	trigger = {
 	tag = PER
 	AND = {
+	has_start_date < 2017.01.01
 	date >2000.2.1
 		}
 	}
